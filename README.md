@@ -1,4 +1,4 @@
-<html><head><base href="https://example.com"><style>
+<html><head><base href="https://camiloduvane.github.io/Receitas/"><style>
 * {
     box-sizing: border-box;
     margin: 0;
@@ -130,7 +130,7 @@ tr:hover {
 }
 </style></head><body>
 <div class="container">
-    <a href="https://example.com/dashboard" class="back-button">← Voltar</a>
+    <a href="https://camiloduvane.github.io/DMTT/" class="back-button">← Voltar</a>
     <h1>Consulta de Receitas</h1>
     <div class="filter-section">
         <div class="input-group">
