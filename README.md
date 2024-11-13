@@ -20,6 +20,21 @@ body {
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
+.back-button {
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 8px 16px;
+    background: #6c757d;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background 0.3s ease;
+}
+
+.back-button:hover {
+    background: #5a6268;
+}
+
 .filter-section {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -115,6 +130,7 @@ tr:hover {
 }
 </style></head><body>
 <div class="container">
+    <a href="https://example.com/dashboard" class="back-button">← Voltar</a>
     <h1>Consulta de Receitas</h1>
     <div class="filter-section">
         <div class="input-group">
