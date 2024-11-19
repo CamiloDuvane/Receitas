@@ -1,4 +1,7 @@
-<html><head><base href="https://camiloduvane.github.io/Receitas/"><style>
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head><base href="https://camiloduvane.github.io/Receitas/"><style>
 * {
     box-sizing: border-box;
     margin: 0;
